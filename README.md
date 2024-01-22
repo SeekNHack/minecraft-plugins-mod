@@ -1,5 +1,5 @@
 # Minecraft Mod & Plugin Library
-[![Social]][https://linktr.ee/hacknseek]
+[![https://img.shields.io/badge/Social-37a779?style=for-the-badge]][https://linktr.ee/hacknseek]
 Welcome to the free library of mods and plugins for Minecraft! This library is designed to provide a collection of custom resources to enhance your Minecraft gaming experience. Feel free to explore, contribute, and use the following resources in your Minecraft adventure.
 
 ## List of Mods
