@@ -8,7 +8,7 @@ Welcome to the free library of mods and plugins for Minecraft! This library is d
 
 ## List of Mods
 
-1. 
+(soon)
 
 ## List of Plugins
 
