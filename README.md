@@ -13,7 +13,7 @@ Welcome to the free library of mods and plugins for Minecraft! This library is d
 ## List of Plugins
 
 - [Killer Custom Message ](https://github.com/SeekNHack/killer_custom_message_mc_plugin): Set a custom killing message when you defeat a player
-- [Random Drops](https://github.com/SeekNHack/random-drops-plugin-mc): Generate a random item when a block is broken
+- [Random Drops ](https://github.com/SeekNHack/random-drops-plugin-mc): Generate a random item when a block is broken
 
 
 ## Contribute
