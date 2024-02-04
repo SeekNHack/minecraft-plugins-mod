@@ -14,6 +14,7 @@ Welcome to the free library of mods and plugins for Minecraft! This library is d
 
 - [Killer Custom Message ](https://github.com/SeekNHack/killer_custom_message_mc_plugin): Set a custom killing message when you defeat a player
 - [Random Drops ](https://github.com/SeekNHack/random-drops-plugin-mc): Generate a random item when a block is broken
+- [Vein Mining ](https://github.com/SeekNHack/Vein-Mining-Plugin-MC): Quickly extract large quantities of blocks of the same type.
 
 
 ## Contribute
